@@ -54,6 +54,7 @@ flowchart LR
 
 ## Related
 
+- [enterprise-sales-playbook](https://github.com/Madangk/enterprise-sales-playbook): full-cycle enterprise sales playbook with talk tracks, templates and a coaching kit
 - [account-research-agent](https://github.com/Madangk/account-research-agent): research an account and get MEDDPICC questions before the first call
 - [ai-outbound-workflow](https://github.com/Madangk/ai-outbound-workflow): signal-based outbound with HubSpot, Clay, Claude and Slack
 
