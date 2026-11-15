@@ -1,0 +1,10 @@
+Element,Score (0-3),Evidence (what the buyer said or did),Gap,Next action,Owner,Due date
+Metrics,,,,,,
+Economic buyer,,,,,,
+Decision criteria,,,,,,
+Decision process,,,,,,
+Paper process,,,,,,
+Identify pain,,,,,,
+Champion,,,,,,
+Competition,,,,,,
+TOTAL (out of 24),=SUM(B2:B9),,,,,
